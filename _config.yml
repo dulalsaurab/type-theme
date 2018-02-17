@@ -1,6 +1,11 @@
+theme:
+  title: Type Theme
+  avatar:
+  gravatar:
+  
 # SITE CONFIGURATION
 baseurl: "/type-theme"
-url: "https://rohanchandra.github.io/"
+url: "https://dulalsaurab.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
