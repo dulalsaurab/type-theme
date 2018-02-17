@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: ""/type-theme""
 url: "https://dulalsaurab.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
